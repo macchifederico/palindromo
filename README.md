@@ -1,5 +1,9 @@
 # Palindromo
 
+## Este es una aplicación muy sencilla para saber si una palabra o una frase es un palíndromo.
+## Que es un palíndromo? Es una frase o palabra se puede leer en un sentido y otro.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
 
 ## Development server
